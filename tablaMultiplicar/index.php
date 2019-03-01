@@ -11,9 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <form action="controller.php">
+            <h1>Ingrese hasta que numero</h1>
             Ingrese la tabla a multiplicar
             <input type="number" name="tabla"><br>
-            Ingrese hasta que numero
             <input type="number" name="elementos"><br>
             <input type ="submit" value="Calcular">
             
